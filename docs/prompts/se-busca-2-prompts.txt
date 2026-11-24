@@ -1,0 +1,225 @@
+PROMPTS DE CADA ESCENA DE «SE BUSCA 2» (@soydiegoosorio)
+CÓMO USARLOS: pégale este archivo a Claude Code (con Higgsfield conectado) y dile "haz este video con mi clon".
+Image 1 = tu ficha con el vestuario (Claude la crea con GPT Image 2.6) · Image 2 = una foto de tu cara ·
+Image 3 = la ficha del aliado de esa escena (el mono en la 5, la 6 y la 10; el genio en la 7, la 8, la 11 y la 12).
+Seedance 2.5 en Higgsfield: 9:16, 480p, con audio, una generación por escena. Cambia [YOUR LOOK] por cómo eres tú
+y [YOUR NAME] por tu nombre. Cada escena = BLOQUE BASE + su texto.
+Duraciones: 5, 5, 5, 4, 4, 4, 4, 4, 4, 5, 6 y 8 segundos. Costo de todo el video: 2,79 dólares en créditos.
+Las escenas están escritas como comedia de película familiar a propósito: así el filtro de Higgsfield no las rechaza.
+
+==============================================================================
+TU FICHA (GPT Image 2.6, 16:9, con 3 fotos tuyas)
+==============================================================================
+
+SUBJECT: A premium three-panel character reference sheet of one man in an original Arabian-tale prince costume, 16:9 overall, shot like an official costume-department reference photo for a major Hollywood film. Real high-resolution photography of a real person in a real, practical, hand-made costume: completely photorealistic, not illustration, not CGI.
+
+HIS FACE: EXACTLY the man of images 1, 2 and 3 (the same person): his exact face, identity, age and features; [YOUR LOOK: glasses or not, hair, beard]; a calm, confident, slightly mischievous expression. Take only his face, hair and identity from the photos, not his clothes or background.
+
+SKIN REALISM: real, untouched adult skin with visible pores, natural tone, fine lines; no makeup, no filters, no beauty smoothing; never plastic or airbrushed.
+
+HIS BUILD: about 1.90 m tall, fit but LEAN and slim, NOT muscular, NOT bulky, normal arms; head and face naturally sized. A relaxed, confident stance.
+
+THE COSTUME (an original design, identical in every panel), real fabrics, lightly worn:
+- A long-sleeved tunic of deep TURQUOISE silk, loose sleeves gathered at the wrist, a small stand-up collar open in a narrow V at the neck, fine GOLD embroidery along the collar and the front edge.
+- Over it, a short open sleeveless vest of darker teal brocade with gold trim.
+- A wide GOLD silk sash tied at the waist.
+- Loose, wide turquoise trousers gathered at the ankles.
+- Wide plain gold cuffs on both wrists, over the sleeves; a simple gold chain at the neck.
+- Soft tan leather slippers with slightly pointed toes.
+- NO turban, NO hat, NO crown, NO weapon, NO jewels on the head: his short dark hair is uncovered. No symbols, letters or logos anywhere.
+
+KEY RULES: one man, the same face, build and costume in all three panels. Mouth closed, a calm half-smile. Tack-sharp: eyes, silk weave and gold embroidery crisply resolved. True, natural skin tone.
+
+LAYOUT (exactly this structure): three EQUAL-WIDTH vertical panels side by side, separated by very thin, faint light-grey dividing lines, the same seamless neutral mid-grey background through all three.
+- PANEL 1 (left): full body, straight-on FRONT view, standing centred and upright, feet about shoulder-width apart, arms relaxed at his sides. The top of his head about 6% below the top edge; his feet about 4% above the bottom edge, with a soft contact shadow. Eyes to the camera.
+- PANEL 2 (centre): full body, straight-on BACK view: the same height, position and scale, as if he simply turned around.
+- PANEL 3 (right): a tight CHEST-UP portrait, straight on: his head and shoulders filling the panel, cut at mid-chest, the collar and the gold chain visible. The sharpest panel.
+
+COLOUR AND LIGHT: daylight-balanced studio light, neutral white balance, true-to-life colour; a large, soft key light from the front and slightly above; one seamless NEUTRAL mid-grey studio paper sweep.
+
+BANS: No turban, no hat, no crown, no weapon. No resemblance to any existing film, TV, comic, cartoon or game character or costume. No bare chest, no bare arms. No glowing effects, no CGI. Panel 2 is a BACK view, not a profile. No cropped head or feet in Panels 1 and 2. No text, no letters, no logos.
+
+==============================================================================
+FICHA DEL GENIO (GPT Image 2.6, 9:16)
+==============================================================================
+
+A full-body character reference photo, vertical 9:16, photorealistic, like a costume and creature-design reference for a major live-action fantasy film: an original GENIE from an Arabian tale. A towering, broad, powerful man-shaped spirit with smooth VIOLET-PURPLE skin, a completely bald head, a long WHITE braided beard, thick white eyebrows, warm amber eyes and a wide, friendly grin. Bare-chested, with wide gold cuffs on both wrists and both upper arms, a heavy gold necklace, and a crimson silk sash at the waist; below the sash his body tapers into a swirling trail of violet smoke instead of legs, hovering just above the floor. Real skin texture, real fabric, real metal. Plain neutral mid-grey seamless studio background, soft even light, sharp focus. An invented character: no resemblance to any existing film, TV, cartoon or game genie, and not the likeness of any real actor. No blue skin, no topknot, no goatee, no earrings. No text, no logos.
+
+==============================================================================
+FICHA DEL MONO (GPT Image 2.6, 9:16)
+==============================================================================
+
+A full-body animal reference photo, vertical 9:16, photorealistic, like a creature reference for a major live-action adventure film: a real, small CAPUCHIN MONKEY standing upright on its hind legs, facing the camera, alert and mischievous, one hand slightly raised. Dark brown fur on the body, a cream-coloured face, chest and shoulders, bright clever brown eyes, a long curled tail. It wears only a thin plain GOLD collar with a tiny round gold tag around its neck: no clothes at all. Real fur, real animal anatomy and proportions. Plain neutral mid-grey seamless studio background, soft even light, sharp focus. An ordinary real monkey: no resemblance to any existing film, TV, cartoon or game character. No vest, no hat, no fez, no clothes. No text, no logos.
+
+==============================================================================
+BLOQUE BASE (va arriba de CADA escena)
+==============================================================================
+
+A shot from a fast, funny, big-budget live-action fantasy adventure film: an Arabian-tale kingdom mixed with the modern world. A charming outlaw prince, the most wanted man in the kingdom, pulls off outrageous mischief with his magical allies and enjoys every second of it. Photorealistic cinematic live-action footage of real people in real places, vertical 9:16. Playful and mischievous, never dark: nobody is ever hurt.
+
+Every person moves like a real human being filmed in real life, at natural real-life speed: real footsteps and weight shifts, relaxed shoulders, hands and fingers that work, breathing, blinking, clothes and hair that move. Nobody slides, glides or moves like a puppet or a video-game character. Nothing is sped up.
+
+=== THE HERO: IDENTITY AND COSTUME LOCK (the most important rule) ===
+THE HERO is EXACTLY the man in IMAGE 1 (his costume reference sheet), with the face of IMAGE 2.
+- FACE (exactly image 2): his exact face; [YOUR LOOK: glasses or not, hair, beard]; real skin with visible pores. His head is always uncovered: no turban, no hat, no crown.
+- COSTUME (exactly image 1, never changed): a long-sleeved tunic of deep TURQUOISE silk with fine gold embroidery at the collar; a short open sleeveless vest of darker teal brocade with gold trim; a wide GOLD silk sash at the waist; loose turquoise trousers gathered at the ankles; wide plain gold cuffs on both wrists; a simple gold chain; soft tan leather slippers.
+- BODY: tall (about 1.90 m), fit but lean and slim, natural proportions.
+
+=== HIS PERFORMANCE ===
+Calm, relaxed and amused, like a charismatic movie star playing a lovable rogue: he is never in a hurry and never afraid. Small, real expressions: a raised eyebrow, a half smile, a real laugh. He always does the action himself.
+
+=== HIS ALLIES (whenever they appear) ===
+THE TIGER: a real, full-grown Bengal tiger, his tame pet, calm and friendly like a big house cat; it never touches or hurts anyone.
+THE FLYING CARPET: a thick deep-red Persian carpet with gold patterns and gold tassels; it floats and flies by magic.
+THE GENIE: violet-purple skin, bald, a long white braided beard, gold cuffs, a crimson sash, a body that ends in a trail of violet smoke instead of legs; he floats. He is the responsible adult of the group and is always a little fed up with THE HERO.
+THE MONKEY: a small real capuchin monkey with a thin gold collar, no clothes; quick and mischievous.
+
+=== PHYSICS AND REALISM ===
+Real weight, mass and momentum: bodies and animals jump and fall on believable arcs and land heavily; nothing floats, glides or hangs in the air unless it is magic (the flying carpet, the genie). Destruction always has a visible cause and looks like real practical effects: glass cracks and falls, plaster and bricks crumble with dust. Real, detailed locations; real people with ordinary faces who react naturally. Five fingers on every hand; faces never warp or morph; objects never change size or melt; no text, logos or readable signs anywhere unless the scene asks for one.
+
+=== THE CAMERA ===
+A professional cinema camera, operated by hand: gentle natural micro-shakes, a jolt on each impact, snap zooms and whip pans only where the scene asks for them; shallow depth of field, natural motion blur, rich warm film colour. Never slow motion, never sped up. No cuts or angles other than the ones the scene describes.
+
+=== SOUND AND BANS ===
+Real location sound only: the ambience of the place, footsteps, fabric, impacts, animal sounds, short natural gasps, shouts and laughter. NO MUSIC. No dialogue, no narration: nobody speaks any words. No blood, wounds or injuries: everyone ends up startled but fine. No CGI look, no video-game look, no cartoon look, no plastic skin, no beauty smoothing.
+
+==============================================================================
+ESCENA 1 · LA RESEÑA CON EL TIGRE
+==============================================================================
+
+=== THE SCENE: THE MUGSHOT WITH THE PET TIGER (0.0s–5.0s) ===
+A comedy scene, like a family adventure film. A police booking room: a pale wall with black horizontal height lines, cold fluorescent tube light, a grey floor, a police camera on a tripod in the right foreground. THE HERO stands straight, facing the camera, holding with both hands at chest height a black booking placard with one white strip on which the single word [YOUR NAME] is printed in plain black capital letters (the only text in the scene; spell it out letter by letter). A POLICE OFFICER: a real stocky man of about fifty in a dark police uniform, standing guard. ONE continuous shot, the camera still, in front of him.
+- 0.0s–0.4s: a chest-up shot of THE HERO with his placard, a calm half smile.
+- 0.3s–1.2s: THE TIGER strolls into the frame from the right foreground, relaxed like a big house cat, and walks along the RIGHT side of the room toward the empty space between THE HERO and the officer, while the camera widens to show the whole room. The tiger is a solid real animal: it NEVER walks through THE HERO, never crosses in front of him and never overlaps his body; there is always clear floor between them until it sits down beside him.
+- 1.2s–2.6s: the tiger stops between THE HERO and the officer, turns its head toward the officer and gives one big lazy open-mouthed yawn-roar from a metre away; the officer takes a startled step back, wide-eyed. The tiger stays where it is.
+- 2.6s–3.5s: the tiger turns to face the camera and sits down next to THE HERO like an obedient pet.
+- 3.5s–5.0s: THE HERO, still holding the placard with one hand, rests his other hand on the tiger's head and looks into the lens with a smug little smile; the officer stays frozen at the right.
+SOUND: the hum of the fluorescent tube, soft heavy paws, one deep rumbling tiger yawn-roar, the officer's startled gasp. No dialogue, no music.
+
+==============================================================================
+ESCENA 2 · VALET PARA LA ALFOMBRA VOLADORA
+==============================================================================
+
+=== THE SCENE: VALET PARKING FOR A FLYING CARPET (0.0s–5.0s) ===
+A comedy scene. Night, the entrance of a luxury hotel in a big city: golden revolving doors, a glowing marquee, brass posts with red velvet ropes, wet asphalt. THE VALET: a real young man in a black vest over a white shirt with a bow tie. Two doormen in dark suits stand by the doors. FOUR SHOTS with hard cuts, exactly at the times given below.
+- 0.0s–0.9s, SHOT A, wide from the street: THE FLYING CARPET glides in low along the street, a hand's width above the asphalt, exactly like a luxury car pulling up, and slows down in front of the entrance; THE HERO sits on it cross-legged, relaxed, like a man in the back seat of a limousine.
+- 0.9s–2.0s, SHOT B, close on THE HERO sitting cross-legged on the gliding carpet as it comes to a stop: a satisfied smile, the hotel lights passing behind him.
+- 2.0s–3.6s, SHOT C, wide from the street, the empty carpet floating in the foreground: THE HERO now stands on the pavement and casually hands the valet one of the carpet's gold tassels, like handing over car keys. At 2.7s the carpet lifts off by itself, rises and shoots up into the night sky; the valet throws both hands up, and THE HERO does not even look back.
+- 3.6s–5.0s, SHOT D, close-up of the valet: both hands still up, mouth open, eyes following the carpet into the sky, completely stunned.
+SOUND: night city ambience, a soft whoosh as the carpet arrives, the swish of fabric, a bigger whoosh as it flies away, the valet's gasp. No dialogue, no music.
+
+==============================================================================
+ESCENA 3 · LA CENA DEL TIGRE
+==============================================================================
+
+=== THE SCENE: THE GENTLEMAN'S DINNER GOES TO THE PET TIGER (0.0s–5.0s) ===
+A light, funny scene from a family film: THE TIGER is a tame, gentle pet, like a big house cat, and everybody in the room stays safe and calm. An elegant, expensive restaurant at night: round tables with white tablecloths, crystal glasses, warm lamps, guests in evening dress in the background. THE WAITER: a real man in a white jacket and bow tie. THE RICH GENTLEMAN: an elegant, wealthy man of about sixty in a tuxedo, sitting at his table with knife and fork in his hands. THREE SHOTS with hard cuts, exactly at the times given below.
+- 0.0s–0.7s, SHOT A, at the table: the waiter bows and sets a whole golden roast chicken on a silver tray down on the table right in front of the rich gentleman, who looks at his dinner with delight and raises his knife and fork.
+- 0.8s–1.8s, still SHOT A: THE HERO arrives from the right, and with a charming, cheeky smile he simply lifts the tray with the roast chicken off the table from under the gentleman's nose and carries it away; the gentleman is left with his knife and fork in the air, his eyes following the tray.
+- 1.8s–3.0s, SHOT B, low, at floor level: THE HERO kneels and sets the silver tray down on the carpet in front of his pet tiger, which is lying quietly beside the table; the tiger sniffs the roast chicken and starts to nibble it, calm and content.
+- 3.0s–5.0s, SHOT C: the rich gentleman, still holding his knife and fork over an empty tablecloth, and the waiter beside him look down at the tiger with raised eyebrows, speechless; in the right foreground THE HERO, still kneeling, turns to the camera laughing warmly, delighted with his joke.
+SOUND: quiet restaurant murmur and cutlery, the tray landing on the table, the clink of the tray on the floor, a soft happy purr from the tiger, the laugh of THE HERO. No dialogue, no music.
+
+==============================================================================
+ESCENA 4 · EL CAJERO Y LA GUACAMAYA
+==============================================================================
+
+=== THE SCENE: THE MAGIC CASH MACHINE (0.0s–4.0s) ===
+A comedy scene. Night, a wet city street with shop lights and street lamps reflected on the pavement. On the left wall, a cash machine that has gone crazy and is pouring out banknotes like a fountain (plain green-grey notes, no readable text or faces). THE MACAW: a real blue-and-gold macaw parrot, his messenger. THREE SHOTS with hard cuts, exactly at the times given below.
+- 0.0s–0.9s, SHOT A, close: banknotes pour out of the cash machine in a steady stream and pile up; THE HERO, leaning in with a delighted grin, sweeps them with both hands into a black bag.
+- 0.9s–2.0s, SHOT B, wider: the macaw flies in from the upper right and hovers in front of him, flapping (0.9s–1.3s); THE HERO hangs the black bag on its claws and points down the street with one arm (1.3s–1.9s); the macaw turns and takes off.
+- 2.0s–4.0s, SHOT C, looking down the wet night street: the macaw flies away along the street carrying the small black bag, getting smaller, a few banknotes fluttering down behind it onto the wet pavement.
+SOUND: the whirr of the cash machine and the rustle of paper money, wing beats, one macaw squawk, night city ambience. No dialogue, no music.
+
+==============================================================================
+ESCENA 5 · LA BÓVEDA Y EL MONO
+==============================================================================
+
+=== THE SCENE: THE VAULT AND THE MONKEY (0.0s–4.0s) ===
+A comedy heist scene, like a family adventure film. A bank vault of polished steel and stone: shelves full of gold bars on both walls, soft spotlights; in the middle, a white stone pedestal with an old golden oil lamp; further back, a black velvet jewellery bust wearing a big diamond necklace. THE MONKEY is exactly the capuchin monkey of IMAGE 3 (dark brown fur, cream face, a thin gold collar, no clothes). THREE SHOTS with hard cuts, exactly at the times given below.
+- 0.0s–1.1s, SHOT A, from behind: THE HERO strolls into the vault at an easy pace, looking around; the little monkey scampers across the floor ahead of him.
+- 1.1s–2.1s, SHOT B, a medium shot from the side: THE HERO looks along the shelves of gold bars, impressed, then turns his face toward the camera with a raised eyebrow and a grin; the golden lamp on its pedestal is in the foreground.
+- 2.1s–4.0s, SHOT C, close: the monkey has climbed up next to the black jewellery bust; with its two little hands it carefully lifts the diamond necklace off the bust, looks at it sparkling, and hugs it, very pleased with itself.
+SOUND: the quiet hum of the vault, soft footsteps, the patter of the monkey's feet, the tinkle of diamonds, a happy monkey chirp. No dialogue, no music.
+
+==============================================================================
+ESCENA 6 · LA ALARMA
+==============================================================================
+
+=== THE SCENE: THE ALARM (0.0s–4.0s) ===
+A comedy heist scene. A long service corridor of the bank, lit by a pulsing red alarm light. THE MONKEY is exactly the capuchin monkey of IMAGE 3 (dark brown fur, cream face, a thin gold collar, no clothes). ONE continuous shot with one fast turn of the camera.
+- 0.0s–1.0s: THE HERO jogs down the corridor toward the camera, hugging the golden lamp and a handful of jewels against his chest, grinning like a boy who got away with it; the monkey runs along the floor beside him with the diamond necklace around its neck.
+- 1.0s–1.35s: he passes right next to the camera, which whips around 180 degrees with him.
+- 1.35s–4.0s: seen from behind, he jogs away down the corridor toward the red light at the far end, the monkey bounding next to him.
+A light, real jogging pace, never sped up.
+SOUND: a loud alarm bell, running footsteps echoing in the corridor, the clink of gold, his breathless laugh. No dialogue, no music.
+
+==============================================================================
+ESCENA 7 · EL BAÑO DE BILLETES
+==============================================================================
+
+=== THE SCENE: A BATH OF BANKNOTES (0.0s–4.0s) ===
+A comedy scene. A luxurious marble bathroom with a big mirror and a white bathtub already full to the brim with banknotes (plain green-grey notes, no readable text or faces). THE GENIE is exactly the genie of IMAGE 3 (violet-purple skin, bald, a long white braided beard, gold cuffs, a crimson sash, a body that ends in violet smoke). THREE SHOTS with hard cuts, exactly at the times given below.
+- 0.0s–1.1s, SHOT A, close-up: the hand of THE HERO (turquoise silk sleeve, wide gold cuff) turns an ornate golden tap, and instead of water a thick stream of banknotes pours out of the golden spout into the bathtub full of money.
+- 1.1s–1.8s, SHOT B, wide: THE HERO stands by the bathtub, fully dressed, laughing toward the camera, delighted with his trick; on the right, THE GENIE floats in the doorway with his arms crossed, watching him.
+- 1.8s–4.0s, SHOT C, the camera pushes in on THE GENIE: a long, tired, unimpressed look, he slowly shakes his head and rolls his eyes, like a father who has seen this too many times.
+SOUND: the squeak of the tap, a rushing flutter of paper money, the laugh of THE HERO, a long weary sigh from the genie. No dialogue, no music.
+
+==============================================================================
+ESCENA 8 · LA FIESTA Y LA PISCINA
+==============================================================================
+
+=== THE SCENE: THE PARTY AND THE POOL (0.0s–4.0s) ===
+A comedy scene. THE GENIE is exactly the genie of IMAGE 3 (violet-purple skin, bald, a long white braided beard, gold cuffs, a crimson sash, a body that ends in violet smoke). TWO SHOTS with one hard cut at 1.25s.
+- 0.0s–1.25s, SHOT A: night, the terrace of a modern mansion with tall lit windows, a big elegant party. THE HERO stands on a raised step above a cheering crowd of well-dressed guests, seen from behind in the foreground with their arms stretched up; laughing, he throws handfuls of banknotes into the air over them with both hands, and the notes flutter down over the crowd.
+- 1.25s–4.0s, SHOT B: the quiet back garden of the same mansion, a glowing blue swimming pool at night. THE GENIE lounges alone in a wicker armchair by the pool, away from the party, and calmly sips an orange cocktail through a straw, with the face of someone who has given up; the camera slowly moves in on him.
+SOUND: in shot A, a cheering party crowd and the flutter of paper money; in shot B, sudden quiet, crickets, soft pool water, a long slurp through the straw. No dialogue, no music.
+
+==============================================================================
+ESCENA 9 · LA ALFOMBRA REMOLCADA
+==============================================================================
+
+=== THE SCENE: THE CARPET GETS TOWED (0.0s–4.0s) ===
+A comedy scene. Night, a city street with lit shop windows; a black-and-white police car with no readable text is parked at the kerb with an officer sitting inside, watching. THE FLYING CARPET lies flat on the asphalt, parked right next to the police car like a badly parked car. A TRAFFIC OFFICER: a real man in a dark uniform with a yellow reflective vest. TWO SHOTS with one hard cut at 2.65s.
+- 0.0s–2.3s, SHOT A, medium and low: THE HERO sits cross-legged on the parked carpet, back straight, perfectly calm, as if nothing were wrong. Between 1.0s and 1.7s he takes a pair of dark sunglasses and slides them on with one smooth cool move, and lifts his chin.
+- 2.3s–2.65s: the carpet is suddenly pulled away from under him to the left, like a tablecloth trick, and he is left sitting on the bare asphalt, still cross-legged, still wearing the sunglasses.
+- 2.65s–4.0s, SHOT B, wider: the traffic officer walks away to the left dragging the carpet by one corner toward a yellow tow truck, as if towing a car; THE HERO, sitting on the asphalt on the right, watches him go, then turns to the camera with a deadpan look that says: seriously?
+SOUND: night city ambience, the police radio crackling, the swish of the carpet being pulled, the officer's footsteps and the carpet dragging on the asphalt. No dialogue, no music.
+
+==============================================================================
+ESCENA 10 · EL ARRESTO Y EL MONO
+==============================================================================
+
+=== THE SCENE: THE ARREST AND THE MONKEY (0.0s–5.0s) ===
+A slapstick comedy scene, like a family adventure film: nobody is hurt. Night, a city pavement in front of closed shops with roller shutters. THE POLICE OFFICER: a real stocky man of about fifty in a dark police uniform and cap. THE MONKEY is exactly the capuchin monkey of IMAGE 3 (dark brown fur, cream face, a thin gold collar, no clothes). FIVE SHOTS with hard cuts, exactly at the times given below.
+- 0.0s–1.0s, SHOT A: the officer calmly clicks a pair of handcuffs onto the wrists of THE HERO, who holds his hands out in front of him, relaxed, with a patient half smile, like someone who has been through this before.
+- 1.0s–1.5s, SHOT B, low, at pavement level: the little monkey comes racing along the kerb toward them and leaps into the air.
+- 1.5s–2.7s, SHOT C, close: the monkey has landed on the officer's shoulders and covers the officer's eyes with its two little hands, like a child playing guess-who; the officer, blinded, turns left and right, patting the air, more confused than angry.
+- 2.7s–3.6s, SHOT D: THE HERO slips his hands free, the handcuffs dangling from one wrist, gives a little wave and jogs off to the left, while the officer spins around on the spot with the monkey still on his shoulders.
+- 3.6s–5.0s, SHOT E, from the side, the camera moving with him: THE HERO runs along the pavement past the closed shutters, a real light run, laughing, his turquoise silk flapping.
+SOUND: night city ambience, the click of handcuffs, quick little monkey feet, a monkey chatter, the officer's confused grunts, running footsteps, his laugh. No dialogue, no music.
+
+==============================================================================
+ESCENA 11 · EL GENIO PAGA LA FIANZA
+==============================================================================
+
+=== THE SCENE: THE GENIE PAYS THE BAIL (0.0s–6.0s) ===
+A comedy scene: the grown-up comes to pick up the troublemaker. The front desk of a small police station: a wooden counter, noticeboards, blue waiting chairs, cold fluorescent light. Two real police officers in dark uniforms stand behind the counter. THE GENIE is exactly the genie of IMAGE 3 (violet-purple skin, bald, a long white braided beard, gold cuffs, a crimson sash, a body that ends in violet smoke); he floats. THREE SHOTS with hard cuts, exactly at the times given below.
+- 0.0s–2.0s, SHOT A, close, from the side of the counter: a black leather bag sits on the counter, completely CLOSED, zipped shut: at first we see only the closed bag. THE GENIE, serious and tight-lipped, pulls the zip (at about 1.0s) and opens the bag wide: only now do we see that it is packed to the top with thick bundles of banknotes (plain notes, no readable text). The two officers lean in and stare at the money with round eyes.
+- 2.0s–4.0s, SHOT B, a medium shot of THE HERO, his face clearly visible: he comes walking slowly toward the camera from the back of the room, his wrists in handcuffs in front of him, shoulders dropped, head hanging, with the sad, sorry face of a little boy who has just been scolded: lips pressed together, eyebrows up in the middle, eyes on the floor. He stops next to the genie and lifts his eyes up at him for a moment, guilty and apologetic, like a puppy that knows what it did.
+- 4.0s–6.0s, SHOT C, wide: THE GENIE turns around without a word and floats away toward the exit on the right, seen from behind; THE HERO follows one step behind him at a slow, sheepish walk, head low, handcuffed hands in front of him, while the two officers follow them with their eyes.
+SOUND: the hum of the lights, the long zip of the bag, a low whistle from an officer, slow shuffling footsteps, the heavy sigh of the genie. No dialogue, no music.
+
+==============================================================================
+ESCENA 12 · LA SALIDA DE LA ESTACIÓN (encima va tu voz en off)
+==============================================================================
+
+=== THE SCENE: WALKING OUT OF THE STATION (0.0s–8.0s) ===
+Outside the police station at dawn: soft golden early light, a quiet city pavement, the plain grey front of the station with its glass door far behind them, a parked black-and-white police car with no readable text, street lamps. THE GENIE is exactly the genie of IMAGE 3 (violet-purple skin, bald, a long white braided beard, gold cuffs, a crimson sash, a body that ends in violet smoke); he floats beside THE HERO at the height of a tall man. ONE continuous shot: a medium shot from the waist up, the camera moving backward in front of them at their pace, steady and smooth.
+- 0.0s–8.0s: THE HERO (on the right of the frame, free, no handcuffs) and THE GENIE (on the left, a little behind him, arms crossed, still annoyed) come straight toward the camera at a calm, unhurried pace: THE HERO walks with a real natural walk and relaxed arms, the genie glides. The face of THE HERO is sharp and well lit, in the upper middle of the frame.
+- about 2.5s: THE HERO glances sideways at the genie with a guilty little smile.
+- about 3.5s: the genie shakes his head slowly, without looking at him.
+- about 4.5s: THE HERO looks back into the lens.
+- about 6.3s: he shrugs, gives a warm, cheeky smile straight at the lens and winks.
+HE DOES NOT SPEAK: his lips never form words; he only smiles, because a voice-over will be added later. The genie does not speak either.
+SOUND: early morning city ambience, a few birds, his soft footsteps on the pavement. No dialogue, no music.
